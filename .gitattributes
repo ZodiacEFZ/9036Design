@@ -1,0 +1,4 @@
+TeamBadge.ai filter=lfs diff=lfs merge=lfs -text
+TeamFlag.ai filter=lfs diff=lfs merge=lfs -text
+TeamBadge.png filter=lfs diff=lfs merge=lfs -text
+TeamFlag.png filter=lfs diff=lfs merge=lfs -text
